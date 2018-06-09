@@ -4,5 +4,6 @@
     "body":"We’ve released a new version of the app. Friendly for Netflix is now Friendly Video Browser. Please download it from the App Store.",
     "CTA":"Download Now",
     "iconURL":"https://cdn.vox-cdn.com/thumbor/LOEXyxwl5puG7PDEQ8n9gvlufic=/39x0:3111x2048/1820x1213/filters:focal(39x0:3111x2048)/cdn.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png", 
-    "active":false
+    "active":false,
+    "mode":"modal"
 }
