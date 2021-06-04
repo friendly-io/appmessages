@@ -1,7 +1,3 @@
 {
-    "test": "testValue",
-    "intKey": 12,
-    "boolKey": true,
-    "floatKey": 2.005,
-    "nullKey": null
+    "inProductionMode": true
 }
