@@ -1,3 +1,5 @@
 {
-    "inProductionMode": true
+    "inProductionMode": true,
+    "videoDownloadEnabled": true,
+    "photoDownloadEnabled": true,
 }
