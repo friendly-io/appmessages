@@ -1,0 +1,5 @@
+{
+    "inProductionMode": true,
+    "videoDownloadEnabled": true,
+    "photoDownloadEnabled": true,
+}
